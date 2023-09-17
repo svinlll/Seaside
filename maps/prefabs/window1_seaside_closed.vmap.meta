@@ -1,0 +1,30 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "window1_seaside_closed",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "window1_seaside_closed",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.wood_plank_hs_02#33585",
+        "facepunch.concrete_c_painted_hs#28942",
+        "tfassets.window004#20757",
+        "andiq.roofingtiles004#12691"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/prefabs/window1_seaside_closed.vmap"
+      }
+    }
+  }
+}

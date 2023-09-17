@@ -1,0 +1,30 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "window_small4_seaside",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "window_small4_seaside",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.wood_painted_a_hs#28972",
+        "facepunch.wood_plank_hs_01#33582",
+        "andiq.planks027b#12688",
+        "tesssssssssst.xevkfgos_8k_albedo#32439"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/prefabs/window_small4_seaside.vmap"
+      }
+    }
+  }
+}

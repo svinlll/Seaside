@@ -1,0 +1,11 @@
+
+Layer0
+{
+	shader "shaders/complex.shader_c"
+
+	TextureColor "materials/models/city_props/roofs/tile_roof_tejasmat_color.png"
+	TextureAmbientOcclusion "materials/models/city_props/roofs/tile_roof_tejasmat_ao.png"
+	TextureNormal "materials/models/city_props/roofs/tile_roof_tejasmat_normal.png"
+	TextureRoughness "materials/models/city_props/roofs/tile_roof_tejasmat_rough.png"
+
+}

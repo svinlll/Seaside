@@ -1,0 +1,32 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "large_window_seaside2",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "large_window_seaside2",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.wood_plank_hs_02#33585",
+        "goose.g_tilesmarble16u#9630",
+        "facepunch.rubber_a_hs#28967",
+        "penguins.water#26056",
+        "facepunch.concrete_c_painted_hs#28942",
+        "andiq.planks027b#12688"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/prefabs/large_window_seaside2.vmap"
+      }
+    }
+  }
+}

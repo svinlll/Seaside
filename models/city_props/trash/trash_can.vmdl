@@ -1,0 +1,262 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_cylinder"
+						game_keys = 
+						{
+							bonename = ""
+							radius = 15.0085
+							point0 = [ 0.0, 0.0, 0.0 ]
+							point1 = [ 0.0, 0.0, 49.7598 ]
+						}
+					},
+				]
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "trash_can_nonrust.vmat"
+								to = "materials/models/city_props/trash/trash_can.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+					{
+						_class = "MaterialGroup"
+						name = "rust"
+						remaps = 
+						[
+							{
+								from = "materials/models/city_props/trash/trash_can.vmat"
+								to = "materials/models/city_props/trash/trash_can_rusty.vmat"
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 0.0, -14.390055, 24.976938 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ -5.851573, -13.121158, 24.976938 ]
+						angles = [ 0.0, -23.827282, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ -10.77421, -9.529589, 24.976938 ]
+						angles = [ 0.0, -48.253864, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ -13.60144, -4.803214, 24.976938 ]
+						angles = [ 0.0, -69.632683, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 14.526805, -0.326913, 24.976938 ]
+						angles = [ 0.0, 90.0, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 0.0, 14.610126, 24.976938 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ -4.540438, 13.524812, 24.976938 ]
+						angles = [ -0.0, 19.537317, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ -12.813194, 6.240918, 24.976938 ]
+						angles = [ 0.0, -118.315704, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ -9.051602, 10.968009, 24.976938 ]
+						angles = [ 0.0, -140.856705, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ -14.400489, 0.230428, 24.976938 ]
+						angles = [ 0.0, 90.0, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 10.603255, -9.519173, 24.976938 ]
+						angles = [ 0.0, -131.633591, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 13.404284, -4.997582, 24.976938 ]
+						angles = [ 0.0, -109.606796, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 6.199791, -12.775274, 24.976938 ]
+						angles = [ -0.0, 25.827055, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 13.025383, 5.593658, 24.976938 ]
+						angles = [ 0.0, -63.141582, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 5.73463, 13.282613, 24.976938 ]
+						angles = [ 0.0, -23.827282, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 9.724684, 10.316403, 24.976938 ]
+						angles = [ 0.0, -42.066139, 0.0 ]
+						dimensions = [ 6.229575, 1.298255, 49.668972 ]
+					},
+					{
+						_class = "PhysicsShapeCylinder"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						radius = 15.169942
+						point0 = [ 0.0, 0.0, 0.0 ]
+						point1 = [ 0.0, 0.0, 4.463915 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						radius = 3.171755
+						point0 = [ -2.641198, 15.975695, 37.254353 ]
+						point1 = [ 2.55749, 15.975695, 37.254353 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						radius = 3.171755
+						point0 = [ -2.256508, -16.085545, 37.228836 ]
+						point1 = [ 2.94218, -16.085545, 37.228836 ]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/city_props/trash/trash_can.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 0.55
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"Cylinder",
+							]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		base_model_name = ""
+	}
+}

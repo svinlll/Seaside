@@ -1,0 +1,31 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "window4_seaside",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "window4_seaside",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.rubber_a_hs#28967",
+        "thefirm.brick#23460",
+        "facepunch.concrete_c_painted_hs#28942",
+        "andiq.plaster001#12702",
+        "facepunch.wood_plank_hs_02#33585"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/prefabs/window4_seaside.vmap"
+      }
+    }
+  }
+}

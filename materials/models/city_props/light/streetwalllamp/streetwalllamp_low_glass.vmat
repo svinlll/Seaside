@@ -1,0 +1,24 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "shaders/glass.shader"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Glass ----
+	g_flBlurAmount "0.000"
+	g_flRefractionStrength "1.005"
+
+	//---- Material ----
+	g_flTintColor "[1.000000 1.000000 1.000000 0.000000]"
+	TextureAmbientOcclusion "materials/models/city_props/light/streetwalllamp/streetWallLamp_low_glass_ao.png"
+	TextureBlendMask "materials/default/default_blend.tga"
+	TextureColor "materials/models/city_props/light/streetwalllamp/streetWallLamp_low_glass_Color.png"
+	TextureMetalness "materials/models/city_props/light/streetwalllamp/streetWallLamp_low_glass_Metal.png"
+	TextureNormal "materials/models/city_props/light/streetwalllamp/streetWallLamp_low_glass_normal.png"
+	TextureRoughness "materials/models/city_props/light/streetwalllamp/streetWallLamp_low_glass_rough.png"
+	TextureTintMask "materials/default/default.tga"
+	TextureTranslucency "materials/models/city_props/light/streetwalllamp/streetWallLamp_low_glass_trans.png"
+}

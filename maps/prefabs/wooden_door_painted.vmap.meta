@@ -1,0 +1,33 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "wooden_door_painted",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "wooden_door_painted",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.door_handle_a#19191",
+        "facepunch.door_knob_a#19195",
+        "facepunch.wood_painted_a_hs#18391",
+        "facepunch.glass_a#19946",
+        "facepunch.rubber_a_hs#18388",
+        "facepunch.door_lock_a#19197",
+        "baik.doublet_pavement#12022"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/prefabs/wooden_door_painted.vmap"
+      }
+    }
+  }
+}

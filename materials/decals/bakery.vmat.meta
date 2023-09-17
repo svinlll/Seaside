@@ -1,0 +1,28 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "bakery logo",
+      "Type": "material",
+      "Org": "svin",
+      "Ident": "bakery_logo",
+      "Tags": "decal",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "materials/decals/bakery.vmat",
+        "Summary": "",
+        "Description": "",
+        "Public": true,
+        "ReplaceTags": "decal logo"
+      }
+    }
+  }
+}

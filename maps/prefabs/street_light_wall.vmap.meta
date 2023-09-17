@@ -1,0 +1,27 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "street_light_wall",
+      "Type": "map",
+      "Org": "svin",
+      "Ident": "street_light_wall",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "andiq.roofingtiles004#12691"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/prefabs/street_light_wall.vmap"
+      }
+    }
+  }
+}

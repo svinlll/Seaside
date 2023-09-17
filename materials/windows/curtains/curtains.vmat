@@ -1,0 +1,11 @@
+
+Layer0
+{
+	shader "shaders/complex.shader_c"
+
+	TextureColor "materials/windows/curtains/curtains_color.png"
+	TextureAmbientOcclusion "materials/windows/curtains/curtains_ao.png"
+	TextureNormal "materials/windows/curtains/curtains_normal.png"
+	TextureRoughness "materials/windows/curtains/curtains_rough.png"
+
+}
